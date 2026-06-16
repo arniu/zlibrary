@@ -1,0 +1,7 @@
+# Ignore everything except kine-archive/
+/*
+!/kine-archive
+
+# Inside kine-archive, restore LFS tracking for large files
+/kine-archive/.gitignore
+/kine-archive/.gitattributes
