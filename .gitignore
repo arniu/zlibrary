@@ -1,6 +1,7 @@
-# Ignore everything except kine-archive/
+# Ignore everything except whitelisted paths
 /*
 !/kine-archive
+!/README.md
 
 # Inside kine-archive, restore LFS tracking for large files
 /kine-archive/.gitignore
