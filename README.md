@@ -2,7 +2,7 @@
 
 ## 📂 目录
 
-- [`kine-archive/`](kine-archive/) — 运动科学典藏库（23 本经典教材 PDF）
+- [`kine-archive/`](kine-archive/) — 运动科学典藏库（22 本经典教材 PDF）
 
 ## ⚠️ 版权声明
 

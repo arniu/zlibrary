@@ -2,7 +2,7 @@
 
 运动科学领域经典教材的电子版典藏库。
 
-**23 本 PDF | 808 MB | 全部可搜索**
+**22 本 PDF | 880 MB**
 
 ---
 
@@ -21,7 +21,7 @@ kine-archive/
 │   ├── dl_final.mjs       # 通用搜索+下载
 │   └── dl_one_final.mjs   # 按 MD5 下载单本
 ├── tier1a/            # S/A 级 — 4 本，270 MB
-├── tier1b/            # A/B 级 — 17 本，525 MB
+├── tier1b/            # A/B 级 — 16 本，598 MB
 └── tier1c/            # C/D 级 — 2 本，12 MB
 ```
 
